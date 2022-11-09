@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello2");
         System.out.println("Hello3 - Change from clone");
+        System.out.println("Hello5 - merge from clone");
     }
 }
